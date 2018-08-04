@@ -6,9 +6,6 @@ Yet another web controlled car powered by Intel Edison/Galileo, node.JS and Cylo
 
 https://www.instructables.com/id/API-for-a-Web-Controlled-Robot/
 
-![architecture](https://raw.githubusercontent.com/brunoolivieri/SoP/master/arch.jpg)
-
-
 ![architecture](https://github.com/brunoolivieri/SoP/raw/master/arch.jpg)
 
 
